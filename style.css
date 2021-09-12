@@ -1,0 +1,335 @@
+body {
+  margin-right: 0%;
+  padding: 0%;
+}
+
+#h1 {
+  font-size: 35px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  background-color: #11324d;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: -4;
+  margin-bottom: 0px;
+}
+
+.h2 {
+  font-size: 35px;
+  color: blue;
+  text-shadow: 2px 2px #ff0000;
+  text-align: center;
+  font-weight: 1000px;
+  background-color: #83c9f2;
+  padding: 20px;
+}
+
+.carousel-inner > .carousel-item > img {
+  height: 500px;
+  width: 100%;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 60px;
+  max-width: 100%;
+  max-height: auto;
+  position: relative;
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  text-align: center;
+}
+
+.responsive:hover {
+  transform: scale(1.1);
+}
+
+.div1 {
+  text-align: center;
+  background-color: #bed0ed;
+}
+
+.why_us {
+  font-size: 35px;
+  color: purple;
+  font-family: "Indie Flower", cursive;
+  padding-top: 30px;
+}
+
+.about_us {
+  font-size: 35px;
+  color: orange;
+  font-family: "Indie Flower", cursive;
+  padding-top: 30px;
+}
+
+.activities {
+  font-sixe: 35px;
+  color: green;
+  font-family: "Indie Flower", cursive;
+  padding-top: 30px;
+}
+
+.culture {
+  font-size: 35px;
+  color: red;
+  font-family: "Indie Flower", cursive;
+  padding-top: 23px;
+}
+
+.why_p {
+  font-size: 20px;
+}
+
+.about_p {
+  font-size: 20px;
+}
+
+.acti_p {
+  font-size: 20px;
+}
+
+.cult_p {
+  font-size: 20px;
+}
+
+.btn {
+  width: 50%;
+  border: none;
+  background-color: purple;
+  padding: 15px;
+  font-sixe: 20px;
+  cursor: pointer;
+  display: inline-block;
+  height: 50px;
+}
+
+.btn:hover {
+  background-color: blue;
+}
+
+.div2 {
+  text-align: center;
+  background-color: #f5bfd6;
+  padding: 30px;
+  margin: auto;
+}
+
+.heading {
+  color: #c322e3;
+  font-size: 25px;
+}
+
+.heading1 {
+  color: #c322e3;
+  font-size: 25px;
+}
+
+.heading2 {
+  color: #c322e3;
+  font-size: 25px;
+}
+
+.ul1 {
+  color: #0cb365;
+  font-size: 20px;
+}
+
+.ul2 {
+  padding: 20px;
+  color: #2d61e3;
+  font-size: 20px;
+}
+
+.ul3 {
+  padding: 20px;
+  color: #e32d51;
+  font-size: 20px;
+}
+
+.copyright {
+  color: white;
+  background-color: black;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.abt_us {
+  background-color: #fabef0;
+  text-align: center;
+  padding: 20px;
+}
+
+.abt_heading {
+  color: purple;
+  font-size: 45px;
+  text-align: center;
+}
+
+.content {
+  color: blue;
+}
+
+.mission {
+  color: blue;
+}
+
+.vission {
+  color: blue;
+}
+
+.p1 {
+  width: 100%;
+  height: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 60px;
+  max-width: 100%;
+  max-height: auto;
+  position: relative;
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+}
+
+.p1:hover {
+  transform: scale(1.2);
+}
+
+.padagogy {
+  background-color: #e5dae6;
+  text-align: center;
+}
+
+.facti_acti {
+  text-align: center;
+}
+
+.clubs {
+  text-align: center;
+  color: #a3b9f0;
+}
+
+.c {
+  text-align: center;
+}
+
+.sports {
+  text-align: center;
+  color: #a3b9f0;
+}
+
+.s {
+  text-align: center;
+}
+
+.clubs1 {
+  text-align: center;
+}
+
+.wos {
+  text-align: center;
+}
+
+.faci_acti {
+  text-align: center;
+  color: #e83140;
+}
+
+.gallery1 {
+  padding: 30;
+  margin: 30;
+  background-color: #c1f7c4;
+}
+
+.photos {
+  text-align: center;
+  color: orange;
+}
+
+.gp {
+  width: 100%;
+  height: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-radius: 60px;
+  max-width: 100%;
+  max-height: auto;
+  position: relative;
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  text-align: center;
+}
+
+.row {
+  padding: 30px;
+}
+
+.gp:hover {
+  transform: scale(1.1);
+}
+
+body {
+  text-align: left;
+}
+
+.alert {
+  text-align: center;
+  background: #79c879;
+  color: #fff;
+  margin-bottom: 5vh;
+  display: none;
+}
+
+.title {
+  color: blue;
+  font-size: 50px;
+}
+
+/* My styles */
+footer {
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
+  opacity: 0.3;
+}
+
+.white-section {
+  background-color: black;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  margin-top: 7.5rem;
+}
+
+.container-fluid {
+  padding: 4px 10px;
+  justify-content: center;
+}
+
+.footer-container {
+  justify-content: center;
+  padding-top: 8px;
+  padding-bottom: 20px;
+}
+
+#copyright {
+  font-family: "Rubik", sans-serif;
+  color: white;
+  text-align: center;
+  margin-bottom: 0%;
+  padding-top: 0px;
+  margin-top: 20px;
+}
+
+/* Caraousel */
+
+.testimonial-image {
+  width: 100%;
+  margin: 0%;
+  padding: 0%;
+}
